@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "title": "The Coldest Sunset",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+      "tags": ["#photography", "#travel", "#winter"],
+      "imageSrc": "/public/1.jpg",
+      "imageAlt": "Sunset in the mountains",
+      "imageWidth": 600,
+      "imageHeight": 400
+    }
+  ]
+ 

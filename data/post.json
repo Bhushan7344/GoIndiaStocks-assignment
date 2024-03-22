@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "author": "Brad Adams",
+      "timestamp": "22h ago",
+      "joined": "12 SEP 2012",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec sapien sed justo consectetur gravida. Nullam vel tincidunt tortor.",
+      "likes": 12,
+      "comments": 8
+    }
+  ]
